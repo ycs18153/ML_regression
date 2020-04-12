@@ -23,11 +23,11 @@ pip install pandas
 pip install numpy
 pip install matplotlib.pyplot
 ```
-### Training / Testing Set
+### Training / Testing Set reference
 
 https://www.kaggle.com/andonians/random-linear-regression#train.csv
 
-### Reference
+### Course reference
 
 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html?fbclid=IwAR0RHYT5SaYLmgycLlwL4GvtUr0DXML_mJOB_uFAf2NIMHSNLXNQDi7V6Ck
 
