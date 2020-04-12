@@ -13,7 +13,7 @@ In addition, Using Gradient Descent to find and train the parameters is our goal
 * The project includes:
   * train.csv
   * test.csv
-  * Item 2b
+  * linear.ipynb
 
 ### Requirement
 
