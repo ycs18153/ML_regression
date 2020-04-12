@@ -17,6 +17,7 @@ In addition, Using Gradient Descent to find and train the parameters is our goal
 
 ### Requirement
 
+The library you have to install using pip :
 ```
 pip install pandas
 pip install numpy
