@@ -8,6 +8,13 @@ The spirit of linear regression is that we try to draw a line in the graph so th
 
 In addition, Using Gradient Descent to find and train the parameters is our goal in this project.
 
+### Contents
+
+* The project includes:
+  * train.csv
+  * test.csv
+  * Item 2b
+
 ### Requirement
 
 ```
